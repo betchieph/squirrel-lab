@@ -5,7 +5,7 @@ import Squirrel from './Components/Squirrel.js';
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.State={
+    this.state = {
         squirrels:[],
     }
   }
